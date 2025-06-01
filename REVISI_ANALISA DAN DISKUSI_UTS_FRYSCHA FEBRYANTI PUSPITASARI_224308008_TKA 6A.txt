@@ -1,0 +1,9 @@
+Nama		 	:  Fryscha Febryanti Puspitasari
+NIM 	 		:  224308008
+Kelas 	 		:  TKA 6A
+Akun Github (Tautan) 	:  https://github.com/Fryscha
+Student Lab Assistant 	:  Yulia Brilianty
+
+Analisis Hasil dan Diskusi:
+Praktikum ini menunjukkan bahwa penggunaan YOLOv8n sebagai model deteksi objek mampu mendeteksi kerusakan dan gangguan pada bantalan rel kereta api secara otomatis. Dengan kemampuan real-time detection, YOLOv8n dapat mengidentifikasi berbagai jenis objek seperti retakan, keropos, dan benda asing dengan akurasi yang baik.
+Namun demikian, akurasi model sangat bergantung pada kualitas dan jumlah data pelatihan. Dataset yang terbatas dan kurang bervariasi dapat menyebabkan model kesulitan mengenali objek dalam kondisi lingkungan yang berbeda. Oleh karena itu, proses pengumpulan data, pelabelan yang akurat, serta augmentasi data menjadi faktor penting dalam keberhasilan model. 
